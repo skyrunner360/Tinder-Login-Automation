@@ -30,8 +30,3 @@ time.sleep(8)
 driver.find_element_by_xpath('//*[@id="content"]/div/div[2]/div/div/div[1]/button').click()
 driver.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div[3]/button[1]').click()
 driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div/div/div[3]/button[1]').click()
-
-# For Passport feature popup -(Optional)
-# Remove if not Need
-time.sleep(5)
-driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div[2]/button').click()
