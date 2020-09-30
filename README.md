@@ -3,19 +3,16 @@
     <img src="Images/tin2.png" alt=" logo" wiinstadth="150" height="150">
   </a>
 </p>
-
-<h1 align ="center">
 # Tinder-Login-Automation
-</h1>
 <p align="center">
 Automatically Login Tinder using your credential with the help of Selenium.
 it will Login with your your Google account
 </p>
 
-## Requirements
+# Requirements
 Install Selenium:  `pip install selenium`
 
-**Fill the Google credential** in `auto_tinder`
+# Fill the Google credential in `auto_tinder`
 * `User_name`
 * `Password`
 
