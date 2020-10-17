@@ -5,7 +5,7 @@ from selenium import webdriver
 driver = webdriver.Chrome()
 
 driver.get('https://tinder.com/')
-time.sleep(7)
+time.sleep(8)
 
 # Clicks on Sign-in using Google
 google=driver.find_element_by_xpath('//*[@id="modal-manager"]/div/div/div/div/div[3]/span/div[1]/div/button')
